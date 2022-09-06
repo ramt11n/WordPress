@@ -627,6 +627,6 @@ if ( is_multisite() ) {
  *
  * @link https://codex.wordpress.org/AJAX_in_Plugins
  *
- * @since 3.0.0
+ * @since 6
  */
 do_action( 'wp_loaded' );
